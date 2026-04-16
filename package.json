@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "update-data": "python3 scripts/fetch_schedule.py --save && python3 scripts/scrape_standings.py --save && python3 scripts/scrape_player_stats.py --save"
   },
   "dependencies": {
     "next": "16.2.1",

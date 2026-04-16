@@ -1,0 +1,170 @@
+{
+  "players": [
+    {
+      "number": 22,
+      "name": "タナー・グローヴス",
+      "position": "C/PF",
+      "games": 37,
+      "points": 18.4,
+      "rebounds": 9.1,
+      "assists": 1.6,
+      "steals": 0.7,
+      "blocks": 0.5
+    },
+    {
+      "number": 23,
+      "name": "デイビッド・ダジンスキー",
+      "position": "C/PF",
+      "games": 46,
+      "points": 15.4,
+      "rebounds": 5.7,
+      "assists": 2.5,
+      "steals": 0.8,
+      "blocks": 0.4
+    },
+    {
+      "number": 2,
+      "name": "レイナルド・ガルシア",
+      "position": "PG",
+      "games": 21,
+      "points": 14.3,
+      "rebounds": 5.5,
+      "assists": 3.7,
+      "steals": 1.9,
+      "blocks": 0.2
+    },
+    {
+      "number": 9,
+      "name": "デイボン・リード",
+      "position": "SF",
+      "games": 2,
+      "points": 13.0,
+      "rebounds": 2.5,
+      "assists": 3.5,
+      "steals": 0.5,
+      "blocks": 0.5
+    },
+    {
+      "number": 14,
+      "name": "金丸 晃輔",
+      "position": "SF",
+      "games": 30,
+      "points": 10.5,
+      "rebounds": 1.6,
+      "assists": 0.9,
+      "steals": 0.4,
+      "blocks": 0.2
+    },
+    {
+      "number": 25,
+      "name": "角田 太輝",
+      "position": "SG",
+      "games": 46,
+      "points": 10.3,
+      "rebounds": 3.0,
+      "assists": 5.9,
+      "steals": 1.0,
+      "blocks": 0.1
+    },
+    {
+      "number": 13,
+      "name": "阿部 諒",
+      "position": "SG",
+      "games": 46,
+      "points": 8.4,
+      "rebounds": 2.5,
+      "assists": 4.9,
+      "steals": 1.5,
+      "blocks": 0.2
+    },
+    {
+      "number": 55,
+      "name": "ジョシュ・ハレルソン",
+      "position": "C/PF",
+      "games": 34,
+      "points": 6.2,
+      "rebounds": 6.0,
+      "assists": 1.8,
+      "steals": 0.8,
+      "blocks": 0.6
+    },
+    {
+      "number": 20,
+      "name": "岸田 篤生",
+      "position": "PG",
+      "games": 30,
+      "points": 4.1,
+      "rebounds": 1.1,
+      "assists": 0.8,
+      "steals": 0.1,
+      "blocks": 0.0
+    },
+    {
+      "number": 18,
+      "name": "内尾 聡理",
+      "position": "PG/SG",
+      "games": 46,
+      "points": 3.8,
+      "rebounds": 1.5,
+      "assists": 1.4,
+      "steals": 0.6,
+      "blocks": 0.1
+    },
+    {
+      "number": 34,
+      "name": "井上 諒汰",
+      "position": "SF",
+      "games": 37,
+      "points": 3.5,
+      "rebounds": 0.8,
+      "assists": 1.1,
+      "steals": 0.4,
+      "blocks": 0.1
+    },
+    {
+      "number": 21,
+      "name": "富山 仁貴",
+      "position": "SF/PF",
+      "games": 38,
+      "points": 1.2,
+      "rebounds": 0.7,
+      "assists": 0.2,
+      "steals": 0.3,
+      "blocks": 0.1
+    },
+    {
+      "number": 7,
+      "name": "橋本 晃佑",
+      "position": "PF",
+      "games": 16,
+      "points": 0.9,
+      "rebounds": 0.2,
+      "assists": 0.3,
+      "steals": 0.0,
+      "blocks": 0.0
+    },
+    {
+      "number": 5,
+      "name": "山下 泰弘",
+      "position": "PG",
+      "games": 6,
+      "points": 0.7,
+      "rebounds": 0.7,
+      "assists": 0.2,
+      "steals": 0.0,
+      "blocks": 0.0
+    },
+    {
+      "number": 11,
+      "name": "武富 楓太",
+      "position": "PG",
+      "games": 2,
+      "points": 0.0,
+      "rebounds": 0.0,
+      "assists": 0.0,
+      "steals": 0.0,
+      "blocks": 0.0
+    }
+  ],
+  "updatedAt": "2026-04-01T23:50:02.213338"
+}
